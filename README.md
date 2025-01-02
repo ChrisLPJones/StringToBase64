@@ -49,7 +49,7 @@ This repository contains a C program that converts ASCII input into Base64 encod
     - `-lm`: Links the math library (required for `pow()`).
  4. Run the program:
     ```bash
-    ./base64_encoder HelloWorld:
+    ./base64_encoder HelloWorld
     ```
     or
     ```bash
